@@ -1,3 +1,4 @@
+
 .home-section
 {
     width: 100%;
@@ -37,10 +38,6 @@
 
 
 
-
-
-
-
       
 .home-img
 {
@@ -51,81 +48,44 @@
     width: 30%;
     opacity: 0.5;
 }
-
-
-
-
-
-
 .skills
-{
+ {
     max-width: 68.75rem;
     margin: auto;
     text-align: center;
     margin-top: 2.5rem;
   }
-
-
-
-
-
   
-  .skill-header 
-{
+  .skill-header
+   {
     margin-bottom: 1rem;
   }
-
-
-
-
-
-
-
   
-  .skills-wrapper img
-{
+  .skills-wrapper img 
+  {
     padding: 1.25rem;
   }
-
-
-
-
-
   
-  .icon
-{
+  .icon 
+  {
     width: 11rem;
     height: 11rem;
   }
-
-
   .icon:hover 
-{
-    opacity: 0.5
-}
-
-
-
-
-
+  {
+      opacity: 0.5
+    }
   
   .icon-card 
-{
+  {
     background-color: rgb(201, 200, 200);
     border-radius: 11px;
     box-shadow: 0 3px 10px var(--secondary-shadow);
     padding: 20px;
     margin: 10px;
   }
-
-
-
-
-
-
-
   .gotopbtn
-{
+  {
     
     width: 100px;
     height: 100px;
@@ -139,27 +99,15 @@
     color: rgb(243, 239, 239);
     font-size: 50px;
   }
-
-
-
-
-
-
-
-
   .gotopbtn:hover
-{
-    opacity: 0.5
-}
-
-
-
-
-  .btn 
-{
+  {
+      opacity: 0.5
+    }
+  
+  .btn {
     background-color:#99dac6;
     border: none;
-    color: rgb(10, 0, 10);
+    color: linear-gradient(#e27ac8,#a75ad4);
     padding: 1px 2px;
     text-align: center;
     font-size: 13px;
@@ -170,32 +118,35 @@
 
 
 
-  .btn:hover
-{
-    opacity: 0.5
-}
+
+  .btn:hover 
+  {
+      opacity: 0.5
+    }
 
 
 
-
-  .socials
-{
+  .socials 
+  {
     display: flex;
     flex-direction: column;
     position: fixed;
     right: 1%;
     bottom: 5%;
   }
-
-
-
   
-  .socicon 
-{
+
+
+
+
+
+  .socicon
+   {
     width: 1rem;
     height: 1rem;
   
   }
+
 
 
   .new
@@ -208,8 +159,9 @@
     }
 
 
+
     .inner-link 
-{
+    {
       background:linear-gradient(#a9cfb8,#307D7E);
       padding: 20px;
       transition: 0.1s ease-in;
@@ -218,9 +170,92 @@
 
 
 
-  .inner-link:hover
-{
+  
+
+  .inner-link:hover 
+  {
       border: 2px solid #f3870b;
       background-color: rgb(255, 228, 228) ;
   }
+
+
+
+
+
+body,html
+{
+	margin:0;
+	padding: 0;
+	font-family: arial;
+}
+
+
+
+
+
+.header_bottom
+{
+	background:#307D7E; 
+    padding:30px 20px;
+	top: 0
+}
+
+
+
+.main_nav
+{
+	text-align: right;
+}
+
+
+
+
+.my
+{
+    text-align: left;
+}
+
+
+
+.main_nav ul
+{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+
+
+
+
+.main_nav ul li
+{
+	display: inline-block;
+	margin-left: 30px;
+}
+
+
+
+
+.main_nav ul li a
+{
+	color: rgb(0, 0, 0);
+	text-decoration: none;
+}
+
+
+
+
+
+.footer
+{
+	background:#ccc;
+	text-align: center;
+	padding: 20px 0; 
+}
+
   
+
+
+
+
+

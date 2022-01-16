@@ -17,6 +17,11 @@
 
 
 
+
+
+
+
+
 .hero-heading
 {
     color: #fff;
@@ -24,6 +29,11 @@
     text-transform: capitalize;
     font-weight: 300;
 }
+
+
+
+
+
 
 
 
@@ -51,6 +61,12 @@
 
 
 
+
+
+
+
+
+
 .skills
  {
     max-width: 68.75rem;
@@ -59,6 +75,11 @@
     margin-top: 2.5rem;
   }
   
+
+
+
+
+
   .skill-header
    {
     margin-bottom: 1rem;
@@ -66,11 +87,15 @@
   
 
 
+
+
   .skills-wrapper img 
   {
     padding: 1.25rem;
   }
   
+
+
 
 
 
@@ -82,11 +107,16 @@
 
 
 
+
+
+
   .icon:hover 
   {
       opacity: 0.5
     }
   
+
+
 
 
 
@@ -98,6 +128,10 @@
     padding: 20px;
     margin: 10px;
   }
+
+
+
+
 
 
 
@@ -121,6 +155,8 @@
 
 
 
+
+
   .gotopbtn:hover
   {
       opacity: 0.5
@@ -141,6 +177,7 @@
     opacity: 0.6;
     transition: 0.3s;
   }
+
 
 
 
@@ -228,12 +265,16 @@ body,html
 
 
 
+
+
 .header_bottom
 {
 	background:#307D7E; 
     padding:30px 20px;
 	top: 0
 }
+
+
 
 
 
@@ -252,12 +293,18 @@ body,html
 
 
 
+
+
+
 .main_nav ul
 {
 	padding: 0;
 	margin: 0;
 	list-style: none;
 }
+
+
+
 
 
 
@@ -282,8 +329,6 @@ body,html
 	color: rgb(0, 0, 0);
 	text-decoration: none;
 }
-
-
 
 
 

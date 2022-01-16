@@ -48,6 +48,9 @@
     width: 30%;
     opacity: 0.5;
 }
+
+
+
 .skills
  {
     max-width: 68.75rem;
@@ -61,21 +64,32 @@
     margin-bottom: 1rem;
   }
   
+
+
   .skills-wrapper img 
   {
     padding: 1.25rem;
   }
   
+
+
+
   .icon 
   {
     width: 11rem;
     height: 11rem;
   }
+
+
+
   .icon:hover 
   {
       opacity: 0.5
     }
   
+
+
+
   .icon-card 
   {
     background-color: rgb(201, 200, 200);
@@ -84,6 +98,11 @@
     padding: 20px;
     margin: 10px;
   }
+
+
+
+
+
   .gotopbtn
   {
     
@@ -99,10 +118,17 @@
     color: rgb(243, 239, 239);
     font-size: 50px;
   }
+
+
+
   .gotopbtn:hover
   {
       opacity: 0.5
     }
+
+
+
+
   
   .btn {
     background-color:#99dac6;
@@ -119,9 +145,12 @@
 
 
 
+
+
+
   .btn:hover 
   {
-      opacity: 0.5
+      opacity: 1
     }
 
 
@@ -160,6 +189,9 @@
 
 
 
+
+
+
     .inner-link 
     {
       background:linear-gradient(#a9cfb8,#307D7E);
@@ -167,6 +199,9 @@
       transition: 0.1s ease-in;
       border: 2px solid rgb(250, 247, 247);
   }
+
+
+
 
 
 
@@ -236,11 +271,26 @@ body,html
 
 
 
+
+
+
+
+
+
 .main_nav ul li a
 {
 	color: rgb(0, 0, 0);
 	text-decoration: none;
 }
+
+
+
+
+
+
+
+
+
 
 
 
